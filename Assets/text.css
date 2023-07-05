@@ -56,6 +56,14 @@ body{
     border-radius: 0%;
 }
 
+.second{
+    margin: 20px;
+    width: 100%;
+    justify-content: space-between;
+    display: flex;
+
+
+}
 .body1{
     width: 50%;
 }
@@ -69,4 +77,8 @@ body{
 .body1 p{
     margin: 20px;
     margin-top: 5px;
+}
+
+.img1{
+    width: 50%;
 }
